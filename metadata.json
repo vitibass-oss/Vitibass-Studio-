@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost Studio",
+  "description": "Generador de contenido multiplataforma con IA: publicaciones a medida e imágenes en aspecto óptimo para LinkedIn, Twitter/X e Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
